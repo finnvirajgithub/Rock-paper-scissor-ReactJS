@@ -1,0 +1,14 @@
+.reset-btn {
+  background-color: black;
+  color: white;
+  border: 2px solid wheat;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.reset-btn:hover {
+  border-color: yellow;
+  color: yellow;
+}

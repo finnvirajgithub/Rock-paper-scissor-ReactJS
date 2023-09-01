@@ -1,0 +1,38 @@
+.move-icon {
+  height: 75px;
+}
+
+.move-btn {
+  background-color: transparent;
+  border: 3px solid white;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  cursor: pointer;
+  
+}
+
+.gamebButtons {
+  background: black;
+}
+
+.move-btn:hover {
+  border: 5px solid yellow;
+}
+
+.move-btn:active {
+  border: 1px solid yellow;
+}
+
+.result {
+  font-size: 2rem;
+  font-weight: 200;
+  color: yellow;
+}
+
+.move {
+  font-size: 2rem;
+  font-weight: 200;
+  color: yellow;
+}

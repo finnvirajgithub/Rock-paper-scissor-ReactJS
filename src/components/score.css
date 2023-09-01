@@ -1,0 +1,12 @@
+.scores {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  background-color: black;
+  padding: 1rem 20%;
+  font-size: 1.5rem;
+}
+
+.scores .tied {
+  margin-left: 10px;
+}
